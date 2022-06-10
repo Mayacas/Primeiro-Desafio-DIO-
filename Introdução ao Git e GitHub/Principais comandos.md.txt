@@ -1,0 +1,39 @@
+**Lista de Comandos usados no Percurso**
+
+
+
+- dir / ls / -a
+
+- cd
+
+- cd ..
+
+- cls / ctrl + L
+
+- mkdir
+
+- echo / echo >
+
+- del
+
+- rmdir / rm / del
+
+- openssl sha1
+
+- pwd
+
+- SSHAgent
+
+- git init
+
+- git add / . *
+
+- git commit / -m
+
+- git status
+
+- git clone
+
+- git push origin master
+
+  
